@@ -65,7 +65,7 @@ print("RMSE : ",rmse)
 
 ## Output:
 
-# df.head()
+# df.head() & df.tail()
 ![image](https://github.com/Richard01072002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/141472248/f7c2030e-b396-4100-8185-9645f06cefa0)
 
 # Values of X:
